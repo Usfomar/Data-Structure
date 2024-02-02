@@ -1,0 +1,7 @@
+# ninja log v5
+3	289	7136908674839696	CMakeFiles/Queue_using_Linked_Lists.dir/Node.cpp.obj	f7b37cc175117aa9
+1	367	7141203452325523	build.ninja	ba48beccab4d7ffb
+3	267	7136902845476781	CMakeFiles/Queue_using_Linked_Lists.dir/Human.cpp.obj	1be4b2ab8f450b42
+3	385	7140395159537140	CMakeFiles/Queue_using_Linked_Lists.dir/main.cpp.obj	8484b70a4c4152cc
+386	642	7140395161597030	Queue_using_Linked_Lists.exe	f2d16386cd7eb9e0
+13	335	7136899213101223	CMakeFiles/Queue_using_Linked_Lists.dir/Queue.cpp.obj	1c0221f2bbeab20a

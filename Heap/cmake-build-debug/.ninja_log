@@ -1,0 +1,8 @@
+# ninja log v5
+3	312	7146528928256750	CMakeFiles/Heap.dir/main.cpp.obj	3dae147230d41ed8
+313	431	7146528929350410	Heap.exe	d5683de79b3f88d0
+2	368	7146527904918165	CMakeFiles/Heap.dir/MaxHeap.cpp.obj	101ae4bc0f56c9f1
+3	286	7146529099371899	CMakeFiles/Heap.dir/main.cpp.obj	3dae147230d41ed8
+287	377	7146529100300196	Heap.exe	d5683de79b3f88d0
+4	361	7146529365241849	CMakeFiles/Heap.dir/MaxHeap.cpp.obj	101ae4bc0f56c9f1
+361	496	7146529366664139	Heap.exe	d5683de79b3f88d0
