@@ -1,0 +1,3 @@
+C:/Omar/FCAI/2nd Year/Summer Course/Data Structure/Assignments/As1/20200345_20210591_20200644_G3_All_All/cmake-build-debug/CMakeFiles/Trail.dir
+C:/Omar/FCAI/2nd Year/Summer Course/Data Structure/Assignments/As1/20200345_20210591_20200644_G3_All_All/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Omar/FCAI/2nd Year/Summer Course/Data Structure/Assignments/As1/20200345_20210591_20200644_G3_All_All/cmake-build-debug/CMakeFiles/rebuild_cache.dir
